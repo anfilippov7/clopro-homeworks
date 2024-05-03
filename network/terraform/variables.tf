@@ -21,11 +21,6 @@ variable "default_zone" {
 }
 
 
-
-
-
-
-
 variable "nat-instance-image-id" {
   default = "fd80mrhj8fl2oe87o4e1"
 }
@@ -35,7 +30,7 @@ variable "nat-instance-ip" {
 }
 
 variable "centos-7-base" {
-  default = "fd88mqi0d02c7jbkest0"
+  default = "fd8jd3bc8292546d4m8f"
 }
 
 variable "domain" {
